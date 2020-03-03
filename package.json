@@ -1,0 +1,20 @@
+{
+  "name": "compra-cartas",
+  "version": "1.0.0",
+  "description": "Projeto Nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "debug": "^4.1.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --inspect-brk server.js"
+  },
+  "author": "Gabriela Lima",
+  "license": "ISC"
+}

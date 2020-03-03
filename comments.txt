@@ -1,0 +1,16 @@
+/*/ package.json /*/ 
+
+dependencies:
+
+--> express: Framework Node.JS que fornece vários recursos pra desenvolvimento de aplicações web com Node;
+
+--> body-parser: É um Middleware (uma "camada no meio" que facilita a comunicação entre duas aplicações, 
+partes) pra se trabalhar facilmente com o corpo das requisições;
+
+--> fs: File System é um módulo pra se trabalhar com arquivos. Com ele é possível criar, ler, atualizar, 
+renomear e deletar arquivos em nosso computador;
+
+--> ejs: pacote responsável pela engine EJS
+
+
+** Comando que lê o arquivo packge.json, e baixa as dependências nele listadas: npm install –save 
